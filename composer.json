@@ -1,0 +1,17 @@
+{
+    "name": "valdemardo/package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Valdemardo\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
